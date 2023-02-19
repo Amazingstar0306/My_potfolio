@@ -1,5 +1,5 @@
 # PORTFOLIO
 
-https://Amazingstar0306.github.io/portfolio/
+https://relja1981.netlify.app/
 
 Updated January 2023
